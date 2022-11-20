@@ -4,7 +4,6 @@ void print(vector<char> *);
 void input(vector<char> *,vector<char> *);
 void renew(vector<char> *,vector<char> *);
 
-
 int main(){
     vector<char>vec, new_vec;
     input(&vec,&new_vec);
