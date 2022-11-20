@@ -1,0 +1,2 @@
+# shualedurebi
+amoxsnebi iwyeba bolodan
