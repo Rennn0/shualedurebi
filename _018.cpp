@@ -8,7 +8,6 @@ void generate(vector<int>*);
 void timer(void);
 void print(vector<int>*);
 
-
 int main(){
     vector<int>vec;
     generate(&vec);
